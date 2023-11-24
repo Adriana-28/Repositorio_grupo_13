@@ -9,21 +9,19 @@
 No, esto debido a que se ha bañado la punta y articulaciones del dedo protésico en ecoflex, un tipo de silicona flexible.
 
 - ¿Las dimensiones de la prótesis son las adecuadas?
-  
+  Si debido a la forma y tamaño que se asemeja al dedo pulgar
 
 - ¿Es lo suficientemente pequeño para que sea portátil?
-  
+ No, debido a que el case donde se ubican los componentes de arduino,regulador y protoboard son ligeramente grandes  
 
 - ¿La prótesis es de fácil comprensión para el paciente?
 Sí, pues no es complejo colocarse en el brazo del usuario.
 
 - ¿Qué tan cómodo o amigable con la piel es la prótesis para el paciente?
+Es amigable debido al material impreso que estamos utilizando, lo cual hace que el paciente se sienta satisfecho
   
 - ¿La prótesis llega a resbalarse de la mano?
 No, debido a que utilizamos una correa para sujetar la base al muñón
-
-- ¿Por cuánto tiempo debe durar una batería?
-
 
 ## Tabla de requerimientos
 
