@@ -10,6 +10,8 @@
 
 <img height="500px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-11-24%20at%2004.32.27.jpeg?raw=true">
 
+[Link de multimedia](https://drive.google.com/drive/folders/12zblGr60froh0Lr7Ek2Yj1X8CRKrDT_y)
+
 ## Diagrama de flujo
 
 <img  height="400px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20043452.png?raw=true">
