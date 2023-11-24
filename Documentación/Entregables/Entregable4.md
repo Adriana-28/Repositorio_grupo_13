@@ -2,7 +2,7 @@
 
 ## 🥇 Proyecto preliminar 1
 
-<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-10-17%20214737.png?raw=true">
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20060028.png?raw=true">
 
 ## 🥈 Proyecto preliminar 2
 
