@@ -97,4 +97,8 @@ Teniendo dicha ecuación, con un r2= a 0.974, la pendiente será nuestro número
 |Lapicero|Si| <img height="90px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-11-24%20at%2001.34.27%20(2).jpeg?raw=true">|
 |Cargador de Laptop|No| <img height="90px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-11-24%20at%2001.34.28.jpeg?raw=true"> |
 
+## Pruebas de la prótesis sosteniendo objetos
+
+[Link de multimedia](https://drive.google.com/drive/folders/1ylTTBGORAo1_QkyFgVd90WSjdjrfjHgY)
+
 
