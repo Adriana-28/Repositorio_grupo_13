@@ -1,28 +1,39 @@
-# Tercer entregable
+# Análisis
 
-## 📦 Caja negra
+## Gráficas de señales del sensor de fuerza
 
-<image align="center;" style="borde-radius: 300%;" width="600px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-09-21%20232807.png?raw=true">
+**Leyendas**
 
-## Esquema de funciones
+- Elastómero 1: el que tiene la menor propiedad de flexión.
+- Elastómero 2: el que tiene más o menos flexión.
+- Elastómero 3: el más flexible.
 
-<image align="center;" style="borde-radius: 50%;" width="600px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Esquema%20de%20funciones.png?raw=true">
+### Elastómero 1
 
-- **Regulador de Energía**: Regula la energía para poder distribuirla a los componentes.
-- **Detectar (sensor mioeléctrico)**: Detecta las señales mioeléctricas producidas por los músculos.
-- **Procesar**: Procesa la energía detectada por el sensor mioelectrico 
-- **Amplifica**: Amplifica las señales mioelectricas para captar una mejor señal 
-- **Filtrar:** Filtrar las señales mioelectricas necesarias 
-- **Accionar micromotores:** Permiten el movimiento de cada pieza
+Valor máximo
 
-## Matriz morfológica
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20002247.png?raw=true">
 
-<image align="center;" style="borde-radius: 50%;" width="600px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-10-20%20021602.png?raw=true">
+Valor mínimo
 
-## Tabla de valoración
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20002322.png?raw=true">
 
-<image align="center;" style="borde-radius: 50%;" width="600px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/2.png?raw=true">
+### Elastómero 2
 
-## Conclusiones 
+Valor máximo
 
-La propuesta número 1 resultó ser la ganadora debido a su gran facilidad de ensamblaje y uso respecto a las otras propuestas preliminares, ya que se utilizan algunos componentes más simples de utilizar; asimismo, el tipo de material seleccionado tiene una propiedad flexible dándole puntos a favor al prototipado.
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20002332.png?raw=true">
+
+Valor mínimo
+
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20002338.png?raw=true">
+
+### Elastómero 3
+
+Valor mínimo
+
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20002348.png?raw=true">
+
+Valor mínimo
+
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20002356.png?raw=true">
