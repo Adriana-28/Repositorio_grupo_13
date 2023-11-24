@@ -6,7 +6,7 @@
 
 ### Dedo pulgar
 
-<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-03%20030829.png?raw=true">
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20012427.png?raw=true">
 
 #### Planos
 
@@ -14,7 +14,7 @@
 
 ### Case de los servomotores
 
-<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-03%20025052.png?raw=true">
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20012420.png?raw=true">
 
 #### Planos
 
@@ -22,7 +22,7 @@
 
 ### Case del sensor EMG
 
-<img height="300px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-03%20024653.png?raw=true">
+<img height="300px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20012403.png?raw=true">
 
 #### Planos
 
@@ -30,7 +30,7 @@
 
 ### Caja de los componentes
 
-<img height="200px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-03%20035505.png?raw=true">
+<img height="200px;" src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20012412.png?raw=true">
 
 #### Planos
 
@@ -38,4 +38,4 @@
 
 ## Esquema electrónico
 
-<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Esquema%20circuito.png?raw=true">
+<img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20042347.png?raw=true">
