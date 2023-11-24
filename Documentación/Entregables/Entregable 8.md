@@ -97,6 +97,13 @@ No, debido a que utilizamos una correa para sujetar la base al muñón
 
 <img src="https://github.com/Adriana-28/Repositorio_grupo_13/blob/main/Im%C3%A1genes/Captura%20de%20pantalla%202023-11-24%20041244.png?raw=true">
 
+
+## Pruebas para el manejo de prótesis mioeléctricas y el agarre
+
+Para evaluar el desempeño y las funcionalidades de los dos sistemas consideramos 2 evaluaciones estándar, la prueba de Caja y Bloques (BBT) y la Evaluación de la Capacidad de Control Mioeléctrico (ACMC).
+La BBT mide la destreza manual bruta unilateral 45 y se utiliza con una amplia gama de poblaciones (es decir, no es específica para prótesis). El usuario debe mover el número máximo de bloques, uno por uno, de un compartimento a otro en 60 s. Repetimos esta acción 3 veces. Para evaluar funcionalidades avanzadas y habilidades de manipulación, incluimos la prueba ACMC. Es la primera evaluación de resultados diseñada específicamente para prótesis mioeléctricas. El ACMC es una evaluación basada en observaciones que mide la capacidad de una persona para operar una prótesis de mano mioeléctrica cuando realiza actividades de la vida cotidiana. La prueba consta de 22 ítems divididos en 4 subsecciones (Agarrar, Reajustar el agarre, Sostener, Soltar) y puntuados en una escala de calificación de 4 puntos por un observador certificado. [2]
+
+
 ## Conclusiones
 
 Según los datos de los ángulos obtenidos se puede evidenciar que el elastómero medio flexible es el que tiene mejores resultados, pues tiene un valor aceptable de flexión y se asemeja más con la flexión de un dedo pulgar real, el cual posee una flexión de hasta 80°, sin dejar de lado sus propiedades de resistencia.
@@ -107,6 +114,7 @@ El resorte con mejores resultados es el resorte 2, obteniendo ángulos bastante 
 
 [1]  Hislop HJ, Montgomery J. Pruebas funcionales musculares - 6b* ed. Marban Libros; 2001.
 
+[2]  Capsi-Morales P, Piazza C, Catalano MG, Grioli G, Schiavon L, Fiaschi E, et al. Comparison between rigid and soft poly-articulated prosthetic hands in non-expert myo-electric users shows advantages of soft robotics. Sci Rep [Internet]. 2021;11(1). Disponible en: http://dx.doi.org/10.1038/s41598-021-02562-y
 
 
 
